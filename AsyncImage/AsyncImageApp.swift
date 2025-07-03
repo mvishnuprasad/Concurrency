@@ -11,7 +11,7 @@ import SwiftUI
 struct AsyncImageApp: App {
     var body: some Scene {
         WindowGroup {
-            ListUI( )
+            Another( )
         }
     }
 }
